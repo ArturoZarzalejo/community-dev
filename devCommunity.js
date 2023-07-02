@@ -121,7 +121,7 @@ const developers = [{
   </p>`
 },
 {
-  img: '/imgs/matias-joven.png',
+  img: '/imgs/matias-feliz-twitter.jpg',
   name: '@MatiasBaldanza',
   HTMLContent: `
   <p> 
