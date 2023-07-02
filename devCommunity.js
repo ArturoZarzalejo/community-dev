@@ -39,8 +39,12 @@ const developers = [{
   <span>
     Creador de Community Developers Web, Javascript Tech, gordito, quejica, llorón y friki, también gamer.
   </span>
+  
 
-
+  Friki que no sabe programar, tiene más cuentas que el xokas. 
+  La viva imagen de 'la de trabajar te la sabes??' Vendehumos a tiempo completo que copia codigo con una mano mientras con la otra se arregla el pelazo, 
+  propone chumbimba sin éxito y diariamente está cuajado
+  Para más, ver en directo
   
   </p>`
 },
